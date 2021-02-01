@@ -8,3 +8,4 @@
 99999999
 
 hello git.
+Creating a new branch is quick AND simple.
