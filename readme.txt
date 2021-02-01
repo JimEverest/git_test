@@ -12,3 +12,4 @@ Creating a new branch is quick AND simple.
 
 new from dev
 issue hot-fix for bug101.
+new from dev2
